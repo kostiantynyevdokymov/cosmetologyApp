@@ -1,4 +1,4 @@
-import { LogoApp } from './Header/Logo/Logo';
+import { Loader } from './Loader/Loader';
 
 export const App = () => {
   return (
@@ -12,7 +12,7 @@ export const App = () => {
         color: '#010101',
       }}
     >
-      <LogoApp />
+      <Loader />
       React homework template
     </div>
   );
