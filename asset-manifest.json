@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.e6c13ad2.css",
-    "main.js": "/react-homework-template/static/js/main.a575793b.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.e6c13ad2.css.map": "/react-homework-template/static/css/main.e6c13ad2.css.map",
-    "main.a575793b.js.map": "/react-homework-template/static/js/main.a575793b.js.map"
+    "main.css": "/cosmetologyApp/static/css/main.e6c13ad2.css",
+    "main.js": "/cosmetologyApp/static/js/main.a70196a1.js",
+    "index.html": "/cosmetologyApp/index.html",
+    "main.e6c13ad2.css.map": "/cosmetologyApp/static/css/main.e6c13ad2.css.map",
+    "main.a70196a1.js.map": "/cosmetologyApp/static/js/main.a70196a1.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a575793b.js"
+    "static/js/main.a70196a1.js"
   ]
 }
